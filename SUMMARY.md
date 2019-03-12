@@ -2,7 +2,8 @@
 
 * [前言](README.md)
 * [操作系统](Chapter1/README.md)
-    * [同步-哲学家就餐](Chapter1/哲学家就餐.md)
+    * [信号量](Chapter1/信号量.md)
+    * [管程](Chapter1/管程.md)
 * [计算机网络](Chapter2/README.md)
     * [TCP三次握手](Chapter2/TCP三次握手.md)
     * [路由算法](Chapter2/路由算法.md)
